@@ -4,8 +4,6 @@
 
 I am an economist transitioning into data analytics, with professional experience in economic analysis, public investment projects, and data-driven research on public spending efficiency and performance.
 
-I am an economist transitioning into data analytics, with professional experience in economic analysis, public investment projects, and data-driven research on public spending efficiency and performance.
-
 My background combines quantitative analysis, public-sector consulting, and business-oriented problem solving, which I am now applying to data analytics and business intelligence.
 
 ### 🛠️ Tools & Technologies
