@@ -14,7 +14,7 @@ My background combines quantitative analysis, public-sector consulting, and busi
 * **Business Intelligence:** Power BI, DAX
 * **Programming:** Python, Pandas, NumPy, Matplotlib
 * **Data Analysis:** Statistical analysis, customer segmentation, product analytics
-* **Other:** Stata, Tableau, Git & GitHub
+* **Other:** Stata, Excel, Power Point, Git & GitHub
 
 ### 📊 Featured Project
 
