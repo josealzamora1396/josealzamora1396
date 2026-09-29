@@ -11,7 +11,7 @@ My background combines quantitative analysis, public-sector consulting, and busi
 * **SQL:** BigQuery, MySQL
 * **Business Intelligence:** Power BI, DAX
 * **Currently Learning:** Python, Pandas, NumPy, Matplotlib
-* **Data Analysis:** Statistical analysis, customer segmentation, product analytics
+* **Data Analysis:** Statistical analysis, Story Telling, customer segmentation, product analytics
 * **Other:** Stata, Excel, Power Point, Git & GitHub
 
 ### 📊 Featured Project
