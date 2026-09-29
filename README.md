@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm José Alzamora 👋
 
-<!--
-**josealzamora1396/josealzamora1396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Economist & Data Analyst | SQL | Power BI | Python | Business Analytics**
 
-Here are some ideas to get you started:
+I am an economist transitioning into data analytics, with professional experience in economic analysis, public investment projects, and data-driven research on public spending efficiency and performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focused on applying data analysis and business intelligence tools to transform data into actionable insights.
+
+### 🛠️ Tools & Technologies
+
+* **SQL:** BigQuery, MySQL
+* **Business Intelligence:** Power BI, DAX
+* **Programming:** Python, Pandas, NumPy, Matplotlib
+* **Data Analysis:** Statistical analysis, customer segmentation, product analytics
+* **Other:** Stata, Tableau, Git & GitHub
+
+### 📊 Featured Project
+
+**[Bicycle Sales Analysis](https://github.com/josealzamora1396/Bicycle-Sales-Analysis)**
+
+End-to-end sales analysis using **SQL, BigQuery, Power BI and DAX**.
+
+The project analyzes:
+
+* Customer segmentation and purchasing behavior
+* Product performance and profitability
+* Revenue concentration and Pareto analysis
+* Market penetration
+* Customer activity and spending
+* Year-over-year product performance
+
+The analysis combines SQL-based data preparation with an interactive Power BI dashboard and business-oriented insights.
+
+### 📫 Connect with me
+
+* **LinkedIn:** [José Alzamora Guzman](https://www.linkedin.com/in/jose-alzamora-guzman-ba9040156/)
+* **GitHub:** [josealzamora1396](https://github.com/josealzamora1396)
